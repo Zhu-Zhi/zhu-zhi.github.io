@@ -67,6 +67,7 @@
   - Part-time researcher
 
 ### Awards
+
 - September 2017
   - 日本音響学会2017年秋季研究発表会　学生優秀発表賞
   - Student Excellence Presentation Award, the Autumn Meeting of Acoustical Society of Japan 2017
@@ -94,36 +95,38 @@
   - Ishikawa Prefecture Scholarship for Privately Funded Foreign Students
 
 ### Publication
+
 **Journal Paper**
 
-[1] Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contribution of modulation spectral features on the perception of vocal-emotion using noise-vocoded speech,” Acoustical Science and Technology, Vol. 39, Np. 6, pp. 379-386, 2018. doi.org/10.1250/ast.39.379
+[1] Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contribution of modulation spectral features on the perception of vocal-emotion using noise-vocoded speech,” Acoustical Science and Technology, Vol. 39, Np. 6, pp. 379-386, 2018. https://doi.org/10.1250/ast.39.379
 
-[2]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contributions of Temporal Cue on the Perception of Speaker Individuality and Vocal Emotion for Noise-vocoded Speech,” Acoustical Science and Technology, Vol. 39, No. 3, pp. 234-242, 2018. doi.org/10.1250/ast.39.234
+[2]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contributions of Temporal Cue on the Perception of Speaker Individuality and Vocal Emotion for Noise-vocoded Speech,” Acoustical Science and Technology, Vol. 39, No. 3, pp. 234-242, 2018. https://doi.org/10.1250/ast.39.234
 
-[3]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on linguistic information and speaker individuality contained in temporal envelope of speech,” Acoustical Science and Technology, Vol. 37, No. 5, pp. 258-261, 2016. doi.org/10.1250/ast.37.258
+[3]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on linguistic information and speaker individuality contained in temporal envelope of speech,” Acoustical Science and Technology, Vol. 37, No. 5, pp. 258-261, 2016. https://doi.org/10.1250/ast.37.258
 
-[4]	Zhi Zhu, Katsuhiko Yamamoto, Masashi Unoki, and Naofumi Aoki, “Study on Scramble Method for Speech Signal by Using Random-Bit Shift of Quantization,” Journal of Signal Processing, Vol. 18, No. 6, pp. 303-307, 2014. doi.org/10.2299/jsp.18.303
+[4]	Zhi Zhu, Katsuhiko Yamamoto, Masashi Unoki, and Naofumi Aoki, “Study on Scramble Method for Speech Signal by Using Random-Bit Shift of Quantization,” Journal of Signal Processing, Vol. 18, No. 6, pp. 303-307, 2014. https://doi.org/10.2299/jsp.18.303
 
 [5]	Katsuhiko Yamamoto, Zhi Zhu, Masashi Unoki, and Naofumi Aoki, “Study on Semi-scramble Method for Speech Signals Based on Phonemic Restoration,” Journal of Signal Processing, Vol. 18, No. 4, pp. 205-208, 2014. https://doi.org/10.2299/jsp.18.205
 
 **International Conference**
-[1]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on the relationship between modulation spectral features and the perception of vocal emotion with noise-vocoded speech,” 176th Meeting Acoustical Society of America, The Journal of the Acoustical Society of America Vol. 144, pp. 1804, Vicoria, Canada, November 6, 2018.
 
-[2]	Zhichao Peng, Zhi Zhu, Masashi Unoki, Jianwu Dang, and Masato Akagi, “Auditory-inspired end-to-end speech emotion recognition using 3d convolutional recurrent neural networks based on spectral-temporal modulation,” IEEE International Conference on Multimedia and Expo (ICME), 2018.
+[1]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on the relationship between modulation spectral features and the perception of vocal emotion with noise-vocoded speech,” 176th Meeting Acoustical Society of America, The Journal of the Acoustical Society of America Vol. 144, pp. 1804, Vicoria, Canada, November 6, 2018. https://doi.org/10.1121/1.5067964
 
-[3]	Zhichao Peng, Zhi Zhu, Masashi Unoki, Jianwu Dang, and Masato Akagi, “Speech emotion recognition using MPCRNN based on Gammatone auditory filterbank,” Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2017 (APSIPA 2017), pp. 1750-1755, Kuala Lumpur, Malaysia, December 15, 2017.
+[2]	Zhichao Peng, Zhi Zhu, Masashi Unoki, Jianwu Dang, and Masato Akagi, “Auditory-inspired end-to-end speech emotion recognition using 3d convolutional recurrent neural networks based on spectral-temporal modulation,” IEEE International Conference on Multimedia and Expo (ICME), 2018. https://doi.org/10.1109/ICME.2018.8486564
+
+[3]	Zhichao Peng, Zhi Zhu, Masashi Unoki, Jianwu Dang, and Masato Akagi, “Speech emotion recognition using MPCRNN based on Gammatone auditory filterbank,” Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2017 (APSIPA 2017), pp. 1750-1755, Kuala Lumpur, Malaysia, December 15, 2017. https://doi.org/10.1109/APSIPA.2017.8282316
 
 [4]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on the relationship between modulation spectral features and the perception of nonlinguistic information with noise-vocoded speech,” The New Zealand/Japan Joint Research Meeting on Psychological & Physiological Acoustics and Electroacoustic, Proc. Auditory Research Meeting, The Acoustical Society of Japan, Vol. 47, No. 8, pp. 89-94, Auckland, New Zealand, December 1, 2017.
 
-[5]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Feasibility of Vocal Emotion Conversion on Modulation Spectrogram for Simulated Cochlear Implants,” 25th European Signal Processing Conference (EUSIPCO2017), pp. 1884-1888, Kos, Greece, August 31, 2017.
+[5]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Feasibility of Vocal Emotion Conversion on Modulation Spectrogram for Simulated Cochlear Implants,” 25th European Signal Processing Conference (EUSIPCO2017), pp. 1884-1888, Kos, Greece, August 31, 2017. https://doi.org/10.23919/EUSIPCO.2017.8081526
 
 [6]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Important role of temporal cues in speaker identification for simulated cochlear implants,” Proc. of the 1st International Workshop on Challenges in Hearing Assistive Technology (CHAT-2017), pp. 51-55, Stockholm, Sweden, August 19, 2017.
 
-[7]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “The role of spectral and temporal cues for vocal emotion recognition by cochlear implant simulations,” Acoustics’ 17, Journal of Acoustic Society of America, Vol. 141, No. 5, Pt. 2, pp. 3816, Boston, USA, June 28, 2017.
+[7]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “The role of spectral and temporal cues for vocal emotion recognition by cochlear implant simulations,” Acoustics’ 17, Journal of Acoustic Society of America, Vol. 141, No. 5, Pt. 2, pp. 3816, Boston, USA, June 28, 2017. https://doi.org/10.1121/1.4988445
 
-[8]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Recognition of Vocal Emotion in Noise-vocoded Speech by Normal Hearing and Cochlear Implant Listeners,” 5th Joint Meeting Acoustical Society of America and Acoustical Society of Japan, Journal of Acoustic Society of America, Vol. 140, No. 4, Pt. 2, pp. 3271, Hawaii, USA, December 1, 2016.
+[8]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Recognition of Vocal Emotion in Noise-vocoded Speech by Normal Hearing and Cochlear Implant Listeners,” 5th Joint Meeting Acoustical Society of America and Acoustical Society of Japan, Journal of Acoustic Society of America, Vol. 140, No. 4, Pt. 2, pp. 3271, Hawaii, USA, December 1, 2016. https://doi.org/10.1121/1.4970384
 
-[9]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Modulation spectral features for predicting vocal emotion recognition by simulated cochlear implants,” INTERSPEECH 2016, pp. 262-266, San Francisco, USA, September 9, 2016.
+[9]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Modulation spectral features for predicting vocal emotion recognition by simulated cochlear implants,” INTERSPEECH 2016, pp. 262-266, San Francisco, USA, September 9, 2016. https://doi.org/10.21437/Interspeech.2016-737
 
 [10]	Zhi Zhu, Ryota Miyauchi, and Masashi Unoki, “Analysis of Modulation-Spectral Features Extracted from Japanese Emotional Speech,” The Taiwan/Japan Joint Research Meeting on Psychological & Physiological Acoustics and Electroacoustics, Proc. Auditory Research Meeting, The Acoustical Society of Japan, Vol. 45, No. 7, pp. 589-594, Hsinchu, Taiwan, October 23, 2015.
 
@@ -134,6 +137,7 @@
 [13]	Katsuhiko Yamamoto, Zhi Zhu, Masashi Unoki, and Naofumi Aoki, “Study on semi-scramble method for speech signals based on phonemic restoration,” 2014 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing (NCSP14), pp. 201-204, Hawaii, USA, March 1, 2014.
 
 **Other**
+
 [1]	朱治，関谷伸一，鵜木祐史，“残響が雑音駆動音声の個人性・感情知覚に与える影響の検討，” 2018年日本音響学会春季研究発表会，埼玉，2018．
 
 [2]	関谷伸一，朱治，鵜木祐史，“雑音駆動音声の言語・非言語知覚と室内音響特性による影響の検討，” 信学技報，Vol. 117，No. 255，pp. 41-46，富山，2017年10月21日．
