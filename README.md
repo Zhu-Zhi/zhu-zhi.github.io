@@ -104,7 +104,7 @@
 
 [4]	Zhi Zhu, Katsuhiko Yamamoto, Masashi Unoki, and Naofumi Aoki, “Study on Scramble Method for Speech Signal by Using Random-Bit Shift of Quantization,” Journal of Signal Processing, Vol. 18, No. 6, pp. 303-307, 2014. doi.org/10.2299/jsp.18.303
 
-[5]	Katsuhiko Yamamoto, Zhi Zhu, Masashi Unoki, and Naofumi Aoki, “Study on Semi-scramble Method for Speech Signals Based on Phonemic Restoration,” Journal of Signal Processing, Vol. 18, No. 4, pp. 205-208, 2014. doi.org/10.2299/jsp.18.205
+[5]	Katsuhiko Yamamoto, Zhi Zhu, Masashi Unoki, and Naofumi Aoki, “Study on Semi-scramble Method for Speech Signals Based on Phonemic Restoration,” Journal of Signal Processing, Vol. 18, No. 4, pp. 205-208, 2014. https://doi.org/10.2299/jsp.18.205
 
 **International Conference**
 [1]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on the relationship between modulation spectral features and the perception of vocal emotion with noise-vocoded speech,” 176th Meeting Acoustical Society of America, The Journal of the Acoustical Society of America Vol. 144, pp. 1804, Vicoria, Canada, November 6, 2018.
