@@ -1,8 +1,13 @@
 ## RESUME
+
 Name: 朱治 ZHU ZHI
+
 Gender: Male
+
 Date of birth: 24 June 1990
+
 Address: Bunkyo-ku, Tokyo, Japan
+
 E-mail: zhuzhijason@foxmail.com
 
 ### Markdown
