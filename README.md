@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Zhu-Zhi/zhuzhi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## RESUME
+Name: 朱治 ZHU ZHI
+Gender: Male
+Date of birth: 24 June 1990
+Address: Bunkyo-ku, Tokyo, Japan
+E-mail: zhuzhijason@foxmail.com
 
 ### Markdown
 
