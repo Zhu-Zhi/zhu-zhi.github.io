@@ -10,6 +10,18 @@
 
 *E-mail: zhuzhijason@foxmail.com*
 
+### Skills
+- Language Skills
+  - Chinese: Native
+  - Japanese: 日本語能力試験N1合格
+  - English: TOEIC 820
+- IT Skills
+  - Python, MATLAB, C++
+  - Speech Signal Processing
+  - Statistical Analysis
+  - Machine Learning
+  - Deep Learning: Tensorflow, Keras
+
 ### Education Experience
 
 - April 2015 - March 2018  Ph.D. Degree in Information Science
@@ -80,3 +92,5 @@
 - April 2014
   - 石川県私費外国人留学生奨学金
   - Ishikawa Prefecture Scholarship for Privately Funded Foreign Students
+
+### Publication
