@@ -13,7 +13,7 @@
 ### Education
 
 - April 2015 - March 2018
-  - 北陸先端科学技術大学院大学　情報科学研究科　博士後期課程　在学
+  - 北陸先端科学技術大学院大学　情報科学研究科　博士後期課程
   - Japan Advanced Institute of Science and Technology, School of Information Science, 
   - Thesis: Contribution of Temporal Modulation Cues on the Perception of Speaker Individuality and Vocal Emotion
 
