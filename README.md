@@ -94,3 +94,9 @@
   - Ishikawa Prefecture Scholarship for Privately Funded Foreign Students
 
 ### Publication
+**Journal Paper**
+[1]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contribution of modulation spectral features on the perception of vocal-emotion using noise-vocoded speech,” Acoustical Science and Technology. (Conditional Accepted)
+[2]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Contributions of Temporal Cue on the Perception of Speaker Individuality and Vocal Emotion for Noise-vocoded Speech,” Acoustical Science and Technology, Vol. 39, No. 3, pp. 234-242, 2018.
+[3]	Zhi Zhu, Ryota Miyauchi, Yukiko Araki, and Masashi Unoki, “Study on linguistic information and speaker individuality contained in temporal envelope of speech,” Acoustical Science and Technology, Vol. 37, No. 5, pp. 258-261, 2016.
+[4]	Zhi Zhu, Katsuhiko Yamamoto, Masashi Unoki, and Naofumi Aoki, “Study on Scramble Method for Speech Signal by Using Random-Bit Shift of Quantization,” Journal of Signal Processing, Vol. 18, No. 6, pp. 303-307, 2014.
+[5]	Katsuhiko Yamamoto, Zhi Zhu, Masashi Unoki, and Naofumi Aoki, “Study on Semi-scramble Method for Speech Signals Based on Phonemic Restoration,” Journal of Signal Processing, Vol. 18, No. 4, pp. 205-208, 2014.
