@@ -13,8 +13,8 @@
 ### Education
 
 - October 2013 - March 2013
--北陸先端科学技術大学院大学　情報科学研究科　研究生
--Japan Advanced Institute of Science and Technology, School of Information Science, Research Student
+- 北陸先端科学技術大学院大学　情報科学研究科　研究生
+- Japan Advanced Institute of Science and Technology, School of Information Science, Research Student
 
 
 - September 2008 - June 2012
